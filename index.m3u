@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="UK",BBC News
+http://51.52.156.22:8888/http/004
