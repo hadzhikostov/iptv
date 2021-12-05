@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="UK",BBC News
-http://51.52.156.22:8888/http/004
+#EXTINF:-1 tvg-id="1HDMusicTelevision.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.lyngsat.com/logo/tv/num/1hd-music-tv-ru.png" group-title="Music",1HD Music Television (1080p) [Not 24/7]
+https://github.com/hadzhikostov/iptv/blob/542e71a71222c0b53db65d386c9bf683e8420557/index.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Italia 1" tvg-logo="https://i.imgur.com/5RlYdhr.png" group-title="ITALY",Italia 1
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I1)/index.m3u8
 #EXTINF:-1 tvg-name="Italia 2" tvg-id="" group-title="ITALY" tvg-logo="",Italia 2
