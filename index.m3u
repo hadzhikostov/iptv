@@ -41,3 +41,11 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA | ABC New York" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC New York
 http://un-pluggedtv.net:8080/Mrsd/D1234567/142360
+
+#EXTINF:-1 tvg-id="FoodNetwork.my" tvg-name="FOX NEW YORK NY WNYW" tvg-logo="http://epg.justco.cc/guide/logos/FOX.png" group-title="USA | FOX",FOX NEW YORK NY WNYW
+http://un-pluggedtv.net:8080/Mrsd/D1234567/34807
+
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="US: CBS NEW YORK" tvg-logo="http://epg.justco.cc/guide/logos/CBS.png" group-title="USA | CBS",US: CBS NEW YORK
+http://un-pluggedtv.net:8080/Mrsd/D1234567/34524
+
+
