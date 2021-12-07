@@ -38,3 +38,6 @@ https://livevideo01.wgrz.com/hls/live/2016286/newscasts/live.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA | ABC New York" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC New York
+http://un-pluggedtv.net:8080/Mrsd/D1234567/142360
