@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-country="RO" tvg-language="" tvg-logo="" group-title="",TVR 1
+https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="RO" tvg-language="" tvg-logo="" group-title="",TVR 2
+https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="RO" tvg-language="" tvg-logo="" group-title="",TVR 3
+https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Belarus 24
 https:\\ngtrk.dc.beltelecom.by\ngtrk\smil:belarus24.smil\playlist.m3u8
 
@@ -27,25 +36,9 @@ http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png" group-title="General",RTP1 (480p)
 http://162.212.178.69:41042/bysid/608
 
-#EXTINF:-1 tvg-id="WJLATV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LttuGfq.png" group-title="Local",ABC 7 Washington DC (WJLA) (720p)
-https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
-
-#EXTINF:-1 tvg-id="WRGBTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ByPFQGp.png" group-title="Local",CBS 6 Albany NY (WRGB) (720p)
-https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
-
-#EXTINF:-1 tvg-id="WGRZTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/m4MZTtj.jpg" group-title="Local",NBC 2 Buffalo NY (WGRZ) (1080p)
-https://livevideo01.wgrz.com/hls/live/2016286/newscasts/live.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,UK: ITV 1 HD
-http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/1267.m3u8
-#EXTINF:-1,UK: ITV 2 HD
-http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/1266.m3u8
-#EXTINF:-1,UK: ITV 3 HD
-http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/1265.m3u8
-#EXTINF:-1,UK: ITV 4
-http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/1264.m3u8
 
 
