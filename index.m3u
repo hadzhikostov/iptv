@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-country="RO" tvg-language="" tvg-logo="" group-title="",TVR 1
-https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR1
+http://103.194.169.171:8282/RO_TVR1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="" tvg-country="RO" tvg-language="" tvg-logo="" group-title="",TVR 2
 https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
