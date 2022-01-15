@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="ERT1.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341" group-title="",ERT 1 (1080p) [Geo-blocked]
+http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
+
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR1
 http://103.194.169.171:8282/RO_TVR1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
 
